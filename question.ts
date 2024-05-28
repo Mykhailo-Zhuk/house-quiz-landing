@@ -8,7 +8,7 @@ export const quizQuestions: Question[] = [
     options: [
       { id: 8098580738, image: house, text: "Paris", isCorrect: false },
       { id: 9220139673, image: house, text: "Berlin", isCorrect: false },
-      { id: 9285636769, image: house, text: "Madrid", isCorrect: true },
+      { id: 9285636769, image: house, text: "Madrid", isCorrect: false },
     ],
   },
   {
